@@ -11,4 +11,4 @@ print("View: ", yt.views)
 yd = yt.streams.get_highest_resolution()
 
 # ADD FOLDER HERE
-yd.download("C:/Users/aksha/Downloads/YT")
+yd.download("C:/Users/name/Downloads/YT")
